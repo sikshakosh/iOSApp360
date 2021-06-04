@@ -25,4 +25,4 @@ like
 `
 We hope you have got it, what you have to do. If you have any doubts then you can raise your doubts in Discussions Tab in this repository.
 
-After finishing the task kindly send us pull request, we would see only pull request.
+After finishing the task kindly send us pull request, we would see only pull request for evaluation.
