@@ -2,7 +2,7 @@
 
 ## Steps to Fork the project 
 
-Fork the project, it would come in your github account
+Fork the project using fork button at top right below your image, it would come in your github account
 
 Then clone the project using following command
 
