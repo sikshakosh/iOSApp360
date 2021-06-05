@@ -1,6 +1,6 @@
 # iOSApp360
 
-## Steps to Fork the project - [If you want to get more feature updates for the repository]
+## Steps to Fork the project 
 
 Fork the project, it would come in your github account
 
