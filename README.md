@@ -11,7 +11,7 @@ Then clone the project using following command
 #Task-
 In this application sample form is generated dynamically and you have to see the process that how the form is generated using template type.
 
-And try to create the same form using xml/json template type approach so i can create multiple forms using template type.
+And try to create the same form using xml/json.
 like
 
 ` <Templates>
@@ -23,7 +23,7 @@ like
       </Template>
   </Templates>
 `
-We hope you have got it, what you have to do. If you have any doubts then you can raise your doubts in Discussions Tab in this repository.
+We hope that you have got it, what to do. If you have any doubts then you can raise your doubts in Discussions Tab in this repository.
 
 After finishing the task kindly send us pull request, we would see only pull request for evaluation.
 
