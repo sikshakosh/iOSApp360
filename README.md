@@ -5,8 +5,10 @@
 Fork the project using fork button at top right below your image, it would come in your github account
 
 Then clone the project using following command
+```
+git clone https://github.com/[Your GIT Username]/iOSApp360.git
 
-    `git clone https://github.com/[Your GIT Username]/iOSApp360.git`
+```
 
 #Task-
 In this application sample form is generated dynamically and you have to see the process that how the form is generated using template type.
