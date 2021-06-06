@@ -2,7 +2,7 @@
 //  iOSApp360UITests.swift
 //  iOSApp360UITests
 //
-//  Created by WideClassrooms Chauhan on 04/06/21.
+//  Created by WideClassrooms on 04/06/21.
 //
 
 import XCTest
