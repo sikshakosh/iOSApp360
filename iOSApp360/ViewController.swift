@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iOSApp360
 //
-//  Created by WideClassrooms Chauhan on 04/06/21.
+//  Created by WideClassrooms on 04/06/21.
 //
 
 import UIKit
