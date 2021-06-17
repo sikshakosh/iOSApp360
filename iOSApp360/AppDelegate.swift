@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// file reviewed
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
